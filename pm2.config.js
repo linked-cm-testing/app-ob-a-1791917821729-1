@@ -8,7 +8,7 @@
 module.exports = {
   apps: [
     {
-      name: 'app',
+      name: 'ob-a-1791917821729-1-app',
       script: 'npm run server:prod',
       time: true,
       log_date_format: 'DD-MM-YYYY HH:mm Z',
